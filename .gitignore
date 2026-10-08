@@ -1,0 +1,26 @@
+# Local Python environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Downloaded datasets and model weights (downloaded by notebook setup)
+assignment*/cs231n/datasets/cifar-10-batches-py/
+assignment*/cs231n/datasets/cifar-10-python.tar.gz
+assignment*/cs231n/datasets/coco_captioning/
+assignment*/cs231n/datasets/coco_captioning.zip
+assignment*/cs231n/datasets/imagenet_val_25.npz
+assignment3/cs231n/datasets/emoji_data.npz
+assignment3/cs231n/datasets/text_embeddings.pt
+assignment3/cs231n/exp/
+assignment3/data/
+assignment3/results/
+assignment3/dino_res.mp4
+
+# Compiled extensions and submission artifacts
+assignment2/cs231n/build/
+assignment2/cs231n/*.so
+assignment2/cs231n/*.pyd
+assignment*/a*_code_submission.zip
+assignment*/a*_inline_submission.pdf

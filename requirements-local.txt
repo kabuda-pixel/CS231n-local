@@ -1,0 +1,13 @@
+ipykernel
+setuptools
+numpy
+scipy
+matplotlib
+imageio
+Pillow
+torch
+torchvision
+h5py
+Cython
+nbconvert
+PyPDF2
